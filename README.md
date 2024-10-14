@@ -1,4 +1,4 @@
-# Econometría- Doctorado en Dirección de Empresas - IAE 
+# Herramientas Econometricas - Doctorado en Economía - UCA 
 
 ## Slides 
 * [Dia 1 Intro ](slides/intro/intro.pdf)
