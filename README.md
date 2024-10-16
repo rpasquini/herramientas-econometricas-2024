@@ -18,14 +18,14 @@
 
 ## Notebooks
 
-* [Día 1 Función de Esperanza Condicional](https://github.com/rpasquini/econometria-iae/blob/main/CEF.ipynb)
-* [Día 2 Predicción, Bondad de Ajuste](https://github.com/rpasquini/econometria-iae/blob/main/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb) 
-* [Día 4 Ejemplos Regresión Multivariada](https://github.com/rpasquini/econometria-iae/blob/main/Ejemplos_Regresion_Multiple.ipynb)
-* [Día 4 Clasificación](https://github.com/rpasquini/econometria-iae/blob/main/5_Modelos_de_Clasificacion.ipynb)
-* [Día 5 Experimentos Aleatorizados](https://github.com/rpasquini/econometria-iae/blob/main/Experimentos_Aleatorizados.ipynb)
-* [Día 6 Supuesto de Independencia Condicional](https://github.com/rpasquini/econometria-iae/blob/main/CIA_y_Matching.ipynb) 
-* [Día 7 Diferencias en Diferencias](https://github.com/rpasquini/econometria-iae/blob/main/Diferencias_en_Diferencias.ipynb)\
-* [Día 8 Variables Instrumentales](https://github.com/rpasquini/econometria-iae/blob/main/Instrumental_Variables.ipynb)
+* [Día 1 Función de Esperanza Condicional](CEF.ipynb)
+* [Día 2 Predicción, Bondad de Ajuste](OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb) 
+* [Día 4 Ejemplos Regresión Multivariada](Ejemplos_Regresion_Multiple.ipynb)
+* [Día 4 Clasificación](5_Modelos_de_Clasificacion.ipynb)
+* [Día 5 Experimentos Aleatorizados](Experimentos_Aleatorizados.ipynb)
+* [Día 6 Supuesto de Independencia Condicional](CIA_y_Matching.ipynb) 
+* [Día 7 Diferencias en Diferencias](Diferencias_en_Diferencias.ipynb)
+* [Día 8 Variables Instrumentales](Instrumental_Variables.ipynb)
 
 
 ## Dashboards
