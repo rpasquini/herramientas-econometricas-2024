@@ -1,31 +1,20 @@
 # Herramientas Econometricas - Doctorado en Economía - UCA 
 
-## Slides 
-* [Dia 1 Intro ](slides/intro/intro.pdf)
-* [Dia 1 CEF](slides/cef/cef.pdf)
-* [Dia 2 Regresión Lineal](slides/regresion_doctorado/regresion_doctorado.pdf)
-
-* [Dia 3 Inferencia y Tests de Hipótesis](slides/regresion/test_hipotesis.pdf)
-
-* [Dia 4 Clasificacion](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%203.pdf)
-* [Dia 5 RCT](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%205%20sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)
-* [Dia 6 CIA](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%206%20CIA.pdf)
-* [Dia 7 Dif in Dif](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%207%20DD.pdf)
-* [Día 8 DAGs](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208.pdf)
-* [Día 8 Variables Instrumentales](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208%20IVs.pdf)
 
 
 
-## Notebooks
+| **Día** | **Fecha**    | **Slides** | **Notebooks** |
+|---------|--------------|------------|---------------|
+| Día 1   | 15 de octubre | [Intro](slides/intro/intro.pdf), [CEF](slides/cef/cef.pdf) | [Función de Esperanza Condicional](CEF.ipynb) |
+| Día 2   | 16 de octubre | [Regresión Lineal](slides/regresion_doctorado/regresion_doctorado.pdf) | [Predicción y Bondad de Ajuste](OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb) |
+| Día 3   | 17 de octubre | [Inferencia y Tests de Hipótesis](slides/regresion/test_hipotesis.pdf) | |
+| Día 4   | 18 de octubre | [Clasificación](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%203.pdf) | [Ejemplos Regresión Multivariada](Ejemplos_Regresion_Multiple.ipynb), [Clasificación](5_Modelos_de_Clasificacion.ipynb) |
+| Día 5   | 6 de noviembre | [RCT](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%205%20sesgo%20selecci%C3%B3n%20y%20RCTs.pdf) | [Experimentos Aleatorizados](Experimentos_Aleatorizados.ipynb) |
+| Día 6   | 7 de noviembre | [CIA](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%206%20CIA.pdf) | [Supuesto de Independencia Condicional](CIA_y_Matching.ipynb) |
+| Día 7   | 8 de noviembre | [Dif in Dif](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%207%20DD.pdf) | [Diferencias en Diferencias](Diferencias_en_Diferencias.ipynb) |
+| Día 8   | 9 de noviembre | [DAGs](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208.pdf), [Variables Instrumentales](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208%20IVs.pdf) | [Variables Instrumentales](Instrumental_Variables.ipynb) |
 
-* [Día 1 Función de Esperanza Condicional](CEF.ipynb)
-* [Día 2 Predicción, Bondad de Ajuste](OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb) 
-* [Día 4 Ejemplos Regresión Multivariada](Ejemplos_Regresion_Multiple.ipynb)
-* [Día 4 Clasificación](5_Modelos_de_Clasificacion.ipynb)
-* [Día 5 Experimentos Aleatorizados](Experimentos_Aleatorizados.ipynb)
-* [Día 6 Supuesto de Independencia Condicional](CIA_y_Matching.ipynb) 
-* [Día 7 Diferencias en Diferencias](Diferencias_en_Diferencias.ipynb)
-* [Día 8 Variables Instrumentales](Instrumental_Variables.ipynb)
+
 
 
 ## Dashboards
