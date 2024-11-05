@@ -15,23 +15,27 @@
 | Día 8   | 9 de noviembre | [DAGs](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208.pdf), [Variables Instrumentales](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208%20IVs.pdf) | [Variables Instrumentales](Instrumental_Variables.ipynb) |
 
 
-
+## Ejercicios
+* [Consigna ejercicios de práctica Parte I](Ejercicios_Practica_1_Herramientas_Econometricas.ipynb) 
 
 ## Dashboards
 
-[Interaction effects and sample size](https://betasigma.tech/interaction-effects-and-sample-size/)
+* [Interaction effects and sample size](https://betasigma.tech/interaction-effects-and-sample-size/)
 
 
 ## Libros
+* Parte I Fundamentos
+    * [Wooldridge. Introductory Econometrics](https://www.amazon.com/Introductory-Econometrics-Modern-Approach-MindTap/dp/1337558869/ref=sr_1_1?crid=100A2CUJUIYUZ&dib=eyJ2IjoiMSJ9.LqBN3ABNFuYf8ExBprzJbAPapp92-jbk6lu-q8jzRAhbO3C2wicI49QEB2RGEToOYvJ09BRWmgG0xTzRJM796vYwdKSEThIjXlKWNMK-M812hyWiPiiXs71tvEv1FFd0oAd_JZ8sB-LhLyt9RX0-POPpcf1EnCFBNKtRQMmNhZJfNHcntIeMH2Uogmq3nSVlPw1Jq9AMLfrpZIzF9TBkjdZQRVjzm9xGghWbQ_QcxAs.b3XFVCv7Ev547XNfyQg0VYChvy96IOOJFMA3o1mJhwM&dib_tag=se&keywords=Introductory+Econometrics+A+Modern+Approach&qid=1730924901&s=books&sprefix=introductory+econometrics+a+modern+approach%2Cstripbooks-intl-ship%2C356&sr=1-1)
+    * [Hansen. Econometrics](https://www.ssc.wisc.edu/~bhansen/econometrics/)
+* Parte II Metodologías de Identificación Causal
+    * [J. Angrist and S. Piscke's Mostly Harmless Econometrics](https://www.researchgate.net/publication/51992844_Mostly_Harmless_Econometrics_An_Empiricist's_Companion)
+    * [J. Angrist and S. Piscke's Mastering Metrics](https://www.masteringmetrics.com/) (menos técnico y más casos)
+    * [Scott Cunningham's Causal Inference: The Mixtape](https://mixtape.scunning.com/)
+    * [Rachel Glennerster's Running Randomized Evaluations](http://runningres.com/) (resumen de expertise de aplicación de RCTs)
+    * [World Bank's Impact Evaluation in Practice Book](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) (Introductorio a la evaluación de impacto)
 
-* [Hansen](https://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics.pdf)
-* [Angrist and Piscke's Mostly Harmless](https://www.researchgate.net/publication/51992844_Mostly_Harmless_Econometrics_An_Empiricist's_Companion)
-* [Angrist and Piscke's Mastering Metrics site](https://www.masteringmetrics.com/)
-* [Cunningham's Mixtape](https://scunning.com/cunningham_mixtape.pdf)
-* [World Bank's Impact Evaluation in Practice Book](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice)
-* [Running randomized evaluations site](http://runningres.com/)
-
-## Papers
+## Papers 
+Solo algunos ver el resto en los slides
 * [Galiani, Gertler, Undurraga, Cooper, Martınez, and Ross, 2016, "Shelter from the Storm: Upgrading Housing Infrastructure in Latin American Slums"](https://wagner.nyu.edu/files/doctoral/ShelterFromTheStorm_(forthcoming%20JUEC).pdf)
 * [Chetty, Raj, Nathaniel Hendren, and Lawrence F. Katz. “The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment.”](https://www.nber.org/system/files/working_papers/w21156/w21156.pdf) American Economic Review 106, no. 4 (April 2016): 855–902. https://doi.org/10.1257/aer.201505
 * [Dale, S. B., & Krueger, A. B. (2002). Estimating the payoff to attending a more selective college: An application of selection on observables and unobservables. The Quarterly Journal of Economics, 117(4), 1491-1527.](https://cdn.theatlantic.com/static/mt/assets/business/dalekrueger_More_Selective_College.pdf)
