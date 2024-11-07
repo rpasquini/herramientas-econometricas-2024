@@ -11,7 +11,7 @@
 | Día 4   | 19 de octubre | [Clasificación](slides/clasificacion/Modelos-de-Clasificación.pdf) | [Ejemplos Regresión Multivariada](Ejemplos_Regresion_Multiple.ipynb), [Clasificación](5_Modelos_de_Clasificacion.ipynb) |
 | Día 5   | 6 de noviembre | [RCT](slides/RCT/rcts.pdf) | [Experimentos Aleatorizados](Experimentos_Aleatorizados.ipynb) |
 | Día 6   | 7 de noviembre | [CIA](slides/cia/cia.pdf) | [Supuesto de Independencia Condicional](CIA_y_Matching.ipynb) |
-| Día 7   | 8 de noviembre | [Dif in Dif](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%207%20DD.pdf) | [Diferencias en Diferencias](Diferencias_en_Diferencias.ipynb) |
+| Día 7   | 8 de noviembre | [Dif in Dif](slides/DD/presentation.pdf) | [Diferencias en Diferencias](Diferencias_en_Diferencias.ipynb) |
 | Día 8   | 9 de noviembre | [DAGs](slides/DAGs/dags.pdf), [Variables Instrumentales](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208%20IVs.pdf) | [Variables Instrumentales](Instrumental_Variables.ipynb) |
 
 
